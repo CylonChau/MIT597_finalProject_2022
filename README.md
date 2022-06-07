@@ -210,5 +210,15 @@ Mean Accuracy: 84.800%
 Logistic Regression
 
 ```
-
+Please select algorithms (tips: input int 1-4 to select，other key exit.): 4
+Start time: 2022-06-07 18:29:10.623208
+Start the 1st predicted.
+Start the 2st predicted.
+Start the 3st predicted.
+Start the 4st predicted.
+Start the 5st predicted.
+end time: 2022-06-07 18:31:38.716167
+time comsumption: 0:02:28.092959
+Scores: [89.0, 87.0, 97.0, 94.0, 96.0]
+Mean Accuracy: 92.600%
 ```
