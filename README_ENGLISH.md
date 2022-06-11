@@ -8,8 +8,6 @@ The algorithm is implemented in a pure native way. hardware environment: CPU AMD
 
 ## Start
 
-因为每次执行都是会将所有数据随机打乱，但实际上准确度不变，这里会进行多次执行，也会对减少训练集内容进行测试准确度
-
 Each execution will random all the data, but in fact the accuracy remains unchanged, multiple executions will be performed here, and the test accuracy will also be tested to reduce the content of the training set
 
 ### Frist Execution
@@ -21,7 +19,7 @@ Each execution will random all the data, but in fact the accuracy remains unchan
 | Decision Tree       | -             | The first fold forecast has not been completed within 10 hours |
 | Logistic Regression | 97.408%       | 0:20:08.54                                                   |
 
-下面是执行的输出
+**Below is the output of the execution**
 
 KNN
 
